@@ -5,3 +5,5 @@ A machine learning model built using CNNs and Transfer Learning, used to classif
 - The classes were passed on the Image Data Generator class
 - Transfer Learning Model VGG19 was used, which works by subtracting the mean RGB values from all the cells.
 - Model gave 86% accuracy on kaggle
+- Link to download train and test data
+- kaggle competitions download -c logical-rythm-2k20-sports-image-classification or https://www.kaggle.com/c/logical-rythm-2k20-sports-image-classification/data
